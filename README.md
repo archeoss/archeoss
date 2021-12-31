@@ -76,10 +76,6 @@ HTML                     1 repo              ██████░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/archeoss/archeoss/master/charts/bar_graph.png) 
-
 
  Last Updated on 31/12/2021
 <!--END_SECTION:waka-->
