@@ -3,7 +3,7 @@
 <!--
 -->
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archeoss)](https://git.io/streak-stats)
 
 # Todoist Stats
 
