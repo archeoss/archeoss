@@ -1,13 +1,11 @@
 ## Wassup 
-### Just Chilling
-
-(![medium_00d7e41be1](https://user-images.githubusercontent.com/68448737/147795801-b146fd64-76e3-46e6-a57e-13967eed0569.png))[https://bmstu.ru/]
+### Just Chilling in my beloved Uni 
 
 <!--
 -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=archeoss&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=archeoss&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![download](https://user-images.githubusercontent.com/68448737/147796309-d8b65b1d-4dde-40d9-b03a-2b42aaa6cd43.jpeg)
+](https://bmstu.ru/)
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
