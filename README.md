@@ -8,13 +8,15 @@
 ](https://bmstu.ru/)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2021%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-122-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 18 Contributions in the Year 2022
  > 
-> 📦 11.7 kB Used in GitHub's Storage 
+> 📦 13.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
