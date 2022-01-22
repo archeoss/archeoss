@@ -8,7 +8,7 @@
 ](https://bmstu.ru/)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-142-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
 
 **🐱 My GitHub Data** 
 
@@ -51,19 +51,16 @@ Sunday       20 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Other                    1 min               ███████████████████████░░   93.65% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-iu7-cprog-labs-2021-roman1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -82,7 +79,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/archeoss/archeoss/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/01/2022 18:45:34 UTC
+ Last Updated on 22/01/2022 18:43:08 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
