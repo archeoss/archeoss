@@ -85,8 +85,8 @@ HTML                     1 repo              ██████░░░░░�
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  1,415 Karma Points           
+🏆  1,475 Karma Points           
 🌸  Completed 1 tasks today           
-✅  Completed 30 tasks so far           
-⏳  Longest streak is 6 days
+✅  Completed 31 tasks so far           
+⏳  Longest streak is 7 days
 <!-- TODO-IST:END -->
