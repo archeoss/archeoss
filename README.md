@@ -97,7 +97,7 @@ Assembly                 1 repo              ███░░░░░░░░�
 
 <!-- TODO-IST:START -->
 🏆  3,329 Karma Points           
-🌸  Completed 1 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 70 tasks so far           
 ⏳  Longest streak is 11 days
 <!-- TODO-IST:END -->
