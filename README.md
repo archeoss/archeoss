@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 **🐱 My GitHub Data** 
 
@@ -53,17 +53,16 @@ Sunday       26 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   33 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bmstu-cg-4th-sem         33 mins             █████████████████████████   100.0% 
-bmstu-mdpl-4th-sem       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+bmstu-mdpl-4th-sem       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-Linux                    33 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -84,7 +83,7 @@ Assembly                 1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/archeoss/archeoss/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2022 18:49:18 UTC
+ Last Updated on 22/06/2022 18:51:07 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
