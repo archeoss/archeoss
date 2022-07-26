@@ -8,7 +8,7 @@
 ](http://bmstu.ru/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
@@ -91,7 +91,7 @@ Assembly                 1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/archeoss/archeoss/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/07/2022 00:39:56 UTC
+ Last Updated on 26/07/2022 08:12:23 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
