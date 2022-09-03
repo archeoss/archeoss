@@ -94,8 +94,8 @@ Assembly                 1 repo              ██░░░░░░░░░�
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  4,718 Karma Points           
-🌸  Completed 1 tasks today           
+🏆  4,814 Karma Points           
+🌸  Completed 0 tasks today           
 ✅  Completed 151 tasks so far           
 ⏳  Longest streak is 11 days
 <!-- TODO-IST:END -->
