@@ -98,8 +98,8 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  5,438 Karma Points           
-🌸  Completed 1 tasks today           
+🏆  5,452 Karma Points           
+🌸  Completed 0 tasks today           
 ✅  Completed 192 tasks so far           
 ⏳  Longest streak is 11 days
 <!-- TODO-IST:END -->
