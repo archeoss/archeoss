@@ -7,6 +7,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=archeoss&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![download](https://user-images.githubusercontent.com/68448737/147796309-d8b65b1d-4dde-40d9-b03a-2b42aaa6cd43.jpeg)
 ](http://bmstu.ru/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archeoss&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![archeoss's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=archeoss)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%2025%20mins-blue)
 
