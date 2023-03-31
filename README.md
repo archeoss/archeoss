@@ -9,8 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archeoss&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![archeoss's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=archeoss)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%2025%20mins-blue)
 
