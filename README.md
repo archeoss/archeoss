@@ -96,7 +96,7 @@ Nushell                  1 repo              █░░░░░░░░░░�
 
 <!-- TODO-IST:START -->
 🏆  7,560 Karma Points           
-🌸  Completed 1 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 354 tasks so far           
 ⏳  Longest streak is 11 days
 <!-- TODO-IST:END -->
