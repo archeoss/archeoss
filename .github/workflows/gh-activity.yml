@@ -14,4 +14,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          IGNORED_REPOS: bmstu-oop-4th-sem # too noisy
+          IGNORED_REPOS: bmstu-mdpl-4th-sem  # too noisy
