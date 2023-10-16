@@ -8,7 +8,7 @@
 ](http://bmstu.ru/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C915%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C919%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
 
@@ -16,7 +16,7 @@
 
 > 📦 356.1 kB Used in GitHub's Storage 
  > 
-> 🏆 157 Contributions in the Year 2023
+> 🏆 158 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,11 +75,11 @@ Linux                    44 hrs 46 mins      ███████████�
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     9 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-TeX                      6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Clojure                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Nushell                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Rust                     10 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+TeX                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Clojure                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Nushell                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
@@ -89,7 +89,7 @@ Nushell                  1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/archeoss/archeoss/master/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2023 08:12:40 UTC
+ Last Updated on 16/10/2023 16:11:41 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
