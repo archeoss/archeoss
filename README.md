@@ -94,7 +94,7 @@ Nushell                  1 repo              █░░░░░░░░░░�
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  7,731 Karma Points           
+🏆  7,744 Karma Points           
 🌸  Completed 2 tasks today           
 ✅  Completed 379 tasks so far           
 ⏳  Longest streak is 11 days
