@@ -1,5 +1,4 @@
-## Wassup 
-### Здраствуйте, Александр Сергеевич
+## Wassup
 
 ![Remove-bg ai_1711787544770 (1)](https://github.com/archeoss/archeoss/assets/68448737/e31def6e-524e-4c2b-930d-f672afbf4b77)
 
