@@ -1,7 +1,7 @@
 ## Wassup 
 ### Здраствуйте, Александр Сергеевич
 
-![Remove-bg ai_1711787544770](https://github.com/archeoss/archeoss/assets/68448737/0eab9e24-38be-4796-a77d-b07380e701e6)
+![Remove-bg ai_1711787544770 (1)](https://github.com/archeoss/archeoss/assets/68448737/e31def6e-524e-4c2b-930d-f672afbf4b77)
 
 <!--
 -->
