@@ -9,15 +9,13 @@
 ](http://bmstu.ru/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C641%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C643%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 467.2 kB Used in GitHub's Storage 
- > 
-> 🏆 73 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,10 +75,10 @@ Linux                    21 hrs 44 mins      ███████████�
 
 ```text
 Rust                     12 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+C                        5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Zig                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
@@ -90,7 +88,7 @@ Zig                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/archeoss/archeoss/master/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2024 08:15:55 UTC
+ Last Updated on 24/04/2024 16:12:36 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
