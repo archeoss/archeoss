@@ -9,15 +9,13 @@
 ](http://bmstu.ru/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C993%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C014%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 467.4 kB Used in GitHub's Storage 
- > 
-> 🏆 82 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,7 +88,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/archeoss/archeoss/master/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2024 00:37:53 UTC
+ Last Updated on 24/07/2024 08:14:32 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
