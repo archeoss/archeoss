@@ -7,6 +7,8 @@
 ](http://bmstu.ru/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C402%20hrs%2044%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -85,7 +87,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/archeoss/archeoss/master/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2024 00:44:06 UTC
+ Last Updated on 04/11/2024 08:17:18 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
