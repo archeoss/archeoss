@@ -7,15 +7,13 @@
 ](http://bmstu.ru/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C876%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C883%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 537.1 kB Used in GitHub's Storage 
- > 
-> 🏆 18 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,16 +48,24 @@ Sunday                   190 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       22 hrs              ████████████████████░░░░░   78.41 % 
+YAML                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Bash                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+jjdescription            25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   28 hrs 4 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bsdn-core-v2             12 hrs 10 mins      ███████████░░░░░░░░░░░░░░   43.38 % 
+bsdn-core-mvp            11 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   40.71 % 
+database                 2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+archeoss                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+linux                    26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    28 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -79,7 +85,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/archeoss/archeoss/master/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2025 00:41:16 UTC
+ Last Updated on 26/04/2025 08:11:14 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
