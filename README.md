@@ -92,7 +92,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 <!-- TODO-IST:START -->
 🏆  9,760 Karma Points           
-🌸  Completed 1 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 493 tasks so far           
 ⏳  Longest streak is 11 days
 <!-- TODO-IST:END -->
