@@ -93,8 +93,8 @@ Nix                      1 repo              █░░░░░░░░░░�
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  9,813 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 503 tasks so far           
+🏆  9,822 Karma Points           
+🌸  Completed 2 tasks today           
+✅  Completed 505 tasks so far           
 ⏳  Longest streak is 11 days
 <!-- TODO-IST:END -->
