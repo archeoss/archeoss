@@ -50,20 +50,16 @@ Sunday                   194 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-YAML                     1 hr 28 mins        █████████████████████░░░░   85.98 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Nix                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 42 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-homelab                  1 hr 32 mins        ██████████████████████░░░   89.60 % 
-Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-dotfiles                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 42 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -83,7 +79,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/archeoss/archeoss/master/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2025 00:50:33 UTC
+ Last Updated on 06/08/2025 08:15:33 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
