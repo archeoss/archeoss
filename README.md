@@ -7,6 +7,8 @@
 ](http://bmstu.ru/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C005%20hrs%2035%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -21,6 +23,45 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+🌆 Daytime                221 commits         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+🌃 Evening                246 commits         ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+🌙 Night                  292 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   178 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Tuesday                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Wednesday                75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Thursday                 86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Friday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Saturday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Sunday                   194 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Rust** 
 
 ```text
@@ -38,7 +79,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/archeoss/archeoss/master/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2025 00:40:49 UTC
+ Last Updated on 23/09/2025 08:13:30 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
