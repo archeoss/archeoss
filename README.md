@@ -7,8 +7,6 @@
 ](http://bmstu.ru/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C308%20hrs%2010%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -65,7 +63,7 @@ No Activity Tracked This Week
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Rust                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
 Go                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 C                        5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 Nushell                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
@@ -79,7 +77,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/archeoss/archeoss/master/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 16:46:00 UTC
+ Last Updated on 24/05/2026 01:55:28 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
