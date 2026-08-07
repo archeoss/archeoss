@@ -7,6 +7,8 @@
 ](http://bmstu.ru/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C239%20hrs%208%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -21,6 +23,51 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+🌆 Daytime                221 commits         ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+🌃 Evening                246 commits         ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+🌙 Night                  340 commits         █████████░░░░░░░░░░░░░░░░   36.80 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   226 commits         ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+Tuesday                  124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Wednesday                75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Thursday                 86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Friday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Saturday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Sunday                   194 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Rust** 
 
 ```text
@@ -38,7 +85,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/archeoss/archeoss/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 01:57:37 UTC
+ Last Updated on 07/08/2026 08:43:57 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
